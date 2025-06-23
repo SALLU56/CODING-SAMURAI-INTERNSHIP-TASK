@@ -53,6 +53,7 @@ This project helped me gain a practical understanding of linear regression and d
 
 ---
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sulem-mansuri)  
-- 📧 Email: mansurisulem.5667@gmail.com
+## 🔗 Let's Connect
+
+- 🔗 https://www.linkedin.com/in/sulem-mansuri
+- 📧 **Email**: mansurisulem.5667@gmail.com
