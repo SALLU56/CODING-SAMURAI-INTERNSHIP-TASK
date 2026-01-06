@@ -1,59 +1,67 @@
-# CODING SAMURAI INTERNSHIP TASK
+🚀 Linear Regression on Advertising Dataset
+Coding Samurai – Data Science Internship Task
 
-## 📊 Project : Linear Regression on Simple Dataset
+This project was completed as part of my Data Science Internship at Coding Samurai.
+The objective was to build a Simple Linear Regression model to predict Sales based on TV advertising spend using Python and Scikit-learn.
 
-This project was completed as part of my **Data Science Internship at Coding Samurai**.  
-The goal was to build a simple linear regression model to predict **Sales** based on **TV advertising spend** using Python and Scikit-learn.
+🧠 Skills Demonstrated
 
----
+Linear Regression Modeling
+Data Cleaning & Preprocessing (Pandas)
+Data Visualization (Matplotlib)
+Model Evaluation (MSE, R² Score)
+Jupyter Notebook Workflow
+GitHub Version Control
 
-## 🧠 Skills Demonstrated
-- ✅ Linear Regression modeling
-- ✅ Data preprocessing using Pandas
-- ✅ Visualization with Matplotlib
-- ✅ Model evaluation (Mean Squared Error, R² Score)
-- ✅ Jupyter Notebook and GitHub version control
+📁 Dataset Overview
 
----
+The project uses the popular Advertising Dataset, commonly used for introductory machine learning tasks.
+Columns:
+TV – TV advertising spend
+Radio – Radio advertising spend
+Newspaper – Newspaper advertising spend
+Sales – Product sales
 
-## 📁 Dataset
-- The dataset used is a publicly available **Advertising dataset** often used for academic purposes.
-- Columns: `TV`, `Radio`, `Newspaper`, `Sales`
+🛠️ Tools & Libraries Used
 
----
+Python
+Jupyter Notebook
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
 
-## 🛠️ Tools & Libraries
-- Python
-- Jupyter Notebook
-- Pandas
-- Scikit-learn
-- Matplotlib
+📌 Project Workflow
 
----
+Loaded and explored the dataset
+Removed unnecessary columns
+Selected TV as the independent variable and Sales as the dependent variable
+Split data into training (70%) and testing (30%) sets
+Trained a Linear Regression model
+Evaluated performance using:
+Mean Squared Error (MSE)
+R² Score
+Visualized predictions using scatter plot and regression line
 
-## 📌 Summary of Results
-- Built and trained a linear regression model using `TV` spend as the independent variable.
-- Achieved a meaningful relationship between ad spend and sales.
-- Visualized actual vs predicted sales using a scatter and line plot.
+📊 Summary of Results
 
----
+Successfully trained a linear regression model to estimate sales from TV advertising spend.
+Obtained a strong linear relationship between advertisement investment and sales.
+Visualized actual vs predicted results for better interpretation.
 
-## 📎 Project Files
-- `LinearRegression.ipynb` → Contains the full notebook
-- `advertising.csv` → Dataset used
-- `requirements.txt` → Python libraries required 
+🏁 Outcome
 
----
+This project strengthened my understanding of:
+✔ Machine Learning fundamentals
+✔ Regression models
+✔ Data analysis workflow
+✔ Real-world implementation of scikit-learn
 
-## 🏁 Outcome
-This project helped me gain a practical understanding of linear regression and data analysis workflows using Python.
+📅 Internship Duration: June 9 – July 9, 2025
+🏢 Organization: Coding Samurai
 
-📅 Internship Duration: **June 9 – July 9, 2025**  
-🏢 Organization: **Coding Samurai**
+🔗 Connect With Me
 
----
+LinkedIn: https://www.linkedin.com/in/sulem-mansuri
+Email: mansurisulem.5667@gmail.com
 
-## 🔗 Let's Connect
-
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/sulem-mansuri
-- 📧 **Email**: mansurisulem.5667@gmail.com
